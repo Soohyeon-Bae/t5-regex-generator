@@ -3,7 +3,6 @@ This mini-project is to automatically generate a regular expression based on the
 
 
 t5-regex-generator/  
-
 │── 📂 data/                                                                                                                                                                                      
 │   ├── regex_data.csv          
 │── 📂 models/                  
