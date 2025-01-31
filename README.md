@@ -15,4 +15,4 @@ t5-regex-generator/
 │   ├── t5_regex_training.ipynb 
 │── .gitignore                  
 │── requirements.txt            
-│── README.md                   
+└── README.md                   
