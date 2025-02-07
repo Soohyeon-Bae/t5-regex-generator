@@ -21,7 +21,7 @@ t5-regex-generator/
 │   ├── generate.py            
 │   ├── dataset.py              
 │── 📂 notebooks/               
-│   ├── t5_regex_training.ipynb 
+│   ├── t5_regex_training.ipynb                                                                        
 │── .gitignore                  
 │── requirements.txt            
 └── README.md                   
