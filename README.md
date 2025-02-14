@@ -12,16 +12,20 @@ This mini project uses the T5 model to **convert tagged strings into regular exp
 The repository is organized as follows:
 
 t5-regex-generator/  
-│── 📂 data/                                                                                                                                                                                      
+│── 📂 data/                                                                                                                                                                                    
 │   ├── regex_data.csv          
+│   ├── raw/                 
+│   │   ├── raw_regex_data.json  
+│   │   └── raw_regex_data.txt   
 │── 📂 models/                  
 │   ├── t5_regex_model/         
 │── 📂 src/                    
 │   ├── train.py                
 │   ├── generate.py            
-│   ├── dataset.py              
+│   ├── dataset.py        
+│   └── preprocess.py      
 │── 📂 notebooks/               
-│   ├── t5_regex_training.ipynb                                                                        
+│   └── t5_regex_training.ipynb                                                                        
 │── .gitignore                  
 │── requirements.txt            
 └── README.md                   
