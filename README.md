@@ -6,7 +6,7 @@ This mini project uses the T5 model to **convert tagged strings into regular exp
 
 - `train.py` → Trains and saves the T5 model
 - `generate.py` → Generates regular expressions from tagged input using the trained model
-
+ 
 ## Project Structure
 
 The repository is organized as follows:
