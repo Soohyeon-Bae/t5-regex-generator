@@ -8,9 +8,9 @@ This mini project uses the T5 model to **convert tagged strings into regular exp
 - `generate.py` → Generates regular expressions from tagged input using the trained model
  
 ## Project Structure
- 
+  
 The repository is organized as follows:
-
+ 
 t5-regex-generator/  
 │── 📂 data/                                                                                                                                                                                    
 │   ├── regex_data.csv          
